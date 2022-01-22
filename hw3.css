@@ -120,20 +120,23 @@ img {
     font-size: large;
 }
 
-.image_col1 {
-    float: left;
-    display: inline;
-    margin-left: 70px;
-    padding-top: 100px;
-}
 
 .des_col1 {
-    padding-top: 100px;
     height: 270px;
-    margin-left: 380px;
-    width: 400px;
+    width: 390px;
+    margin-left: 70px;
+    display: inline;
+    float: left;
+    padding-top: 100px;
 }
 
+.image_col1 {
+    margin-left: 30px;
+    height: 270px;
+    width: 400px;
+    display: inline;
+    float: left;
+}
 .italian_img {
     border: 10px solid #ffe5dd;
 }
