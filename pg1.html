@@ -29,28 +29,23 @@
     </div>
 
     <!-- Italian Cuisine -->
-    <div class="row" id="italy">
-      <!-- flowerPic div -->
-      <div class="image_col1">
-        <img
-          class="italian_img"
-          src="flower.png"
-          alt="Italian Cuisine"
-        />
-      </div>
-      <!-- services div -->
-      <div class="des_col1">
-        <h4 class="blue">SERVICES</h4>
-        <div class="turnDream"></div>
-            <p>
+    <div style="position: relative; top: 1900px;">
+        <img src="flower.png" class="center" />
+        <a href="pg2.html#OrderOnline" target="_blank" class="orderonline" style="display:block; text-decoration: none;">
+            <p style="margin-top: 30px; margin-bottom: 0px; font-size: 10px; font-family: Arial, Helvetica, sans-serif; font-weight: 800;">
+                GREENS JUST GOT FASTER!
+            </p>
+            <p style="margin-top: 20px; margin-bottom: 0px; font-size: 10px; font-family: Arial, Helvetica, sans-serif; font-weight: 800;">
                 Turn the dream into a <br />
                 reality
             </p>
-        </div>
-        <div class="button_div">
-            <button class="btn" disabled>DISCOVER</button>
-        </div>
-      </div>
+            <p style="margin-top: 10px; font-size: 30px; color: rgb(92, 88, 88); font-family: 'Times New Roman', Times, serif; font-weight: 500;">
+                Order Online
+            </p>
+        </a>
+    </div>
+    <div class="row" id="italy">
+      
       <!-- imageRight div -->
       <div class="imageRight">
         <img
@@ -68,3 +63,22 @@
 
   </body>
 </html>
+<style>
+    .center{
+		position: relative;
+		display: block;
+		margin: auto;
+    	width: 80%;
+	}
+    .orderonline{
+		position: absolute; 
+		top: 250px; 
+		left: 50%;
+		margin-left: -150px; 
+		width: 350px; 
+		height: 110px; 
+		background-color: white;
+		text-align: center;
+		color: gray;
+	}
+</style>
