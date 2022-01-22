@@ -123,15 +123,15 @@ img {
 
 .des_col1 {
     height: 270px;
-    width: 390px;
-    margin-left: 70px;
+    width: 150px;
+    margin-left: 10px;
     display: inline;
     float: left;
     padding-top: 100px;
 }
 
 .image_col1 {
-    margin-left: 30px;
+    margin-left: 10px;
     height: 270px;
     width: 300px;
     display: inline;
