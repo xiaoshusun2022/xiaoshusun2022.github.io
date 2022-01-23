@@ -126,11 +126,13 @@ img {
     height: 70%;
     width: 70%;
     margin-left: 70px;
-    background:url(flower.png);
     display: inline;
     float: left;
+    
 }
-
+des_col1.img{
+    max-width: 70%;
+}
 .image_col1 {
     margin-left: 40px;
     height: 582px;
