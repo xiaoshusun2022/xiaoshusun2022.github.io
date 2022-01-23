@@ -117,14 +117,11 @@ img {
 .row {
     width: 1000px;
     height: 360px;
-    font-size: large;
-    padding-top: 100px;
+    padding-top: 70px;
 }
 
 
 .des_col1 {
-    height: 270px;
-    width: 70px;
     margin-left: 70px;
     float: left;
     
@@ -134,9 +131,6 @@ img {
     height: 270px;
     width: 400px;
     float: left;
-}
-.italian_img {
-    border: 10px solid #ffe5dd;
 }
 
 
