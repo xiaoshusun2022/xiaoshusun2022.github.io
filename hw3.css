@@ -118,27 +118,25 @@ img {
     width: 1000px;
     height: 360px;
     font-size: large;
+    padding-top: 100px;
 }
 
 
 .des_col1 {
-    height: 270px;
-    width: 150px;
+    height: 250px;
+    width: 250px;
     margin-left: 70px;
     background:url(flower.png);
-    
     display: inline;
     float: left;
-    padding-top: 100px;
 }
 
 .image_col1 {
-    margin-left: 10px;
+    margin-left: 40px;
     height: 270px;
     width: 300px;
     display: inline;
     float: left;
-    padding-top: 100px;
 }
 .italian_img {
     border: 10px solid #ffe5dd;
