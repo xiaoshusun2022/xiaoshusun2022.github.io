@@ -123,15 +123,12 @@ img {
 
 
 .des_col1 {
-    height: 70%;
-    width: 70%;
+    height: 270px;
+    width: 390px;
     margin-left: 70px;
     display: inline;
     float: left;
     
-}
-des_col1.img{
-    max-width: 70%;
 }
 .image_col1 {
     margin-left: 40px;
