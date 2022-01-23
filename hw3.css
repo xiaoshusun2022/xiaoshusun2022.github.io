@@ -118,19 +118,22 @@ button {
 
 .image_col1 {
     float: left;
-    height: 70px;
-    width: 90px;
+    height: 270px;
+    width: 190px;
     display: inline;
     margin-left: 70px;
 }
 .italian_img {
-    width: 70%;
+    width: 80%;
 }
 .des_col1 {
     padding-top: 100px;
-    height: 70px;
+    height: 270px;
     margin-left: 80px;
-    width: 90px;
+    width: 400px;
+}
+.right {
+    width: 80%;
 }
 
 
