@@ -115,7 +115,8 @@ img {
 }
 
 .row {
-    
+    width: 1000px;
+    height: 360px;
     font-size: large;
     padding-top: 100px;
 }
@@ -125,7 +126,6 @@ img {
     height: 270px;
     width: 70%;
     margin-left: 70px;
-    display: inline;
     float: left;
     
 }
@@ -133,7 +133,6 @@ img {
     margin-left: 40px;
     height: 270px;
     width: 400px;
-    display: inline;
     float: left;
 }
 .italian_img {
