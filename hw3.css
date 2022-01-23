@@ -125,7 +125,8 @@ button {
     margin-left: 70px;
 }
 .italian_img {
-    width: 100%;
+    width: 130%;
+    height: 130%;
 }
 .des_col1 {
     padding-top: 100px;
@@ -136,7 +137,7 @@ button {
 }
 .right {
     width: 35%;
-    width: 35%;
+    height: 35%;
 }
 
 
