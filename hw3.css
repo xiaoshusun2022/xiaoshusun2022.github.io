@@ -114,6 +114,7 @@ button {
     width: 1000px;
     height: 360px;
     font-size: large;
+    padding-top: 100px;
 }
 
 .image_col1 {
@@ -131,6 +132,7 @@ button {
     height: 270px;
     margin-left: 80px;
     width: 400px;
+    display: inline;
 }
 .right {
     width: 80%;
