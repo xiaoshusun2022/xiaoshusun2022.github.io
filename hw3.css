@@ -108,11 +108,7 @@ button {
     color: #195eb0
 }
 
-img {
-    height: 290px;
-    width: 400px;
-    object-fit: absolute;
-}
+
 
 .row {
     width: 1000px;
@@ -122,6 +118,8 @@ img {
 
 .image_col1 {
     float: left;
+    height: 270px;
+    width: 190px;
     display: inline;
     margin-left: 70px;
 }
@@ -129,7 +127,7 @@ img {
 .des_col1 {
     padding-top: 100px;
     height: 270px;
-    margin-left: 580px;
+    margin-left: 80px;
     width: 400px;
 }
 
