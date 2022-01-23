@@ -115,22 +115,31 @@ img {
 }
 
 .row {
-    padding-top: 70px;
+    width: 1000px;
+    height: 360px;
+    font-size: large;
+    padding-top: 30px;
 }
-
 
 .des_col1 {
+    height: 270px;
+    width: 190px;
     margin-left: 70px;
-    height: 290px;
-    width: 200px;
+    display: inline;
     float: left;
-    
+    padding-top: 100px;
 }
+
 .image_col1 {
-    margin-left: 40px;
-    height: 290px;
+    margin-left: 30px;
+    height: 270px;
     width: 400px;
+    display: inline;
     float: left;
 }
+
+
+
+
 
 
