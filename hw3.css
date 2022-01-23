@@ -123,8 +123,8 @@ img {
 
 
 .des_col1 {
-    height: 250px;
-    width: 250px;
+    height: 350px;
+    width: 100px;
     margin-left: 70px;
     background:url(flower.png);
     display: inline;
@@ -133,8 +133,8 @@ img {
 
 .image_col1 {
     margin-left: 40px;
-    height: 270px;
-    width: 300px;
+    height: 350px;
+    width: 400px;
     display: inline;
     float: left;
 }
