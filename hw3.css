@@ -124,7 +124,7 @@ button {
     width: 190px;
     display: inline;
     margin-left: 70px;
-    background-size: 270px 190px;
+    background-size: 120% 120%;
 }
 
 .des_col1 {
