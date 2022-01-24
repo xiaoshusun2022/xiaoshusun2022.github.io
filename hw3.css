@@ -138,6 +138,7 @@ button {
     width: 35%;
 }
 .testimonial {
+    background-color: white;
     padding-top: 30px;
     margin-left: 70px;
     height: 400px;
@@ -165,14 +166,14 @@ button {
     color: rgb(252, 165, 5);
 }
 .bgp {
-    background-image: url('image2.png');
+    background-color: white;
     height: 500px;
     width: 840px;
     
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: 40px -5px;
+    background-position: 70px 600px;
     background-repeat: no-repeat;
     background-size: 900px 700px;
 
