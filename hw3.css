@@ -173,7 +173,7 @@ button {
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: 70px 600px;
+    background-position: 70px 150px;
     background-repeat: no-repeat;
     background-size: 900px 700px;
 
