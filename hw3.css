@@ -173,12 +173,20 @@ button {
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: 70px 150px;
+    background-position: 70px 70px;
     background-repeat: no-repeat;
     background-size: 900px 700px;
 
     margin-left: 70px;
 }
-
+.gallery {
+    background-image: url('flower.png');
+    height: 270px;
+    width: 240px;
+    float: right;
+    display: inline;
+    margin-left: 70px;
+    background-size: 90%;
+}
 
 
