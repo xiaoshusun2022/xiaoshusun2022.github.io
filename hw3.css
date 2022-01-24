@@ -147,24 +147,37 @@ button {
 .semiColon {
     font-family: 'Times New Roman', Times, serif; 
     font-size: 36px; 
-    font-weight: 400;
+    font-weight: 100;
     color: black;
 }
 
 .test {
     font-family: 'Times New Roman', Times, serif; 
     font-size: 36px; 
-    font-weight: 400;
+    font-weight: 100;
     color: black;
 }
 .Jimmy {
-    padding-top: 100px;
+    padding-top: 10px;
     font-family: 'Times New Roman', Times, serif; 
     font-size: 36px; 
-    font-weight: 400;
+    font-weight: 100;
     color: rgb(252, 165, 5);
 }
+.bgp {
+    background-image: url('image2.png');
+    height: 500px;
+    width: 840px;
+    
 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: 40px -5px;
+    background-repeat: no-repeat;
+    background-size: 900px 700px;
+
+    margin-left: 70px;
+}
 
 
 
