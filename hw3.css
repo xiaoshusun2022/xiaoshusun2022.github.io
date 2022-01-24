@@ -137,7 +137,37 @@ button {
 .right {
     width: 35%;
 }
-
+.testimonial {
+    padding-top: 30px;
+    margin-left: 70px;
+    height: 400px;
+    width: 500px;
+    text-align: center;
+}
+.semiColon {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 36px; 
+    font-weight: 400;
+    color: black;
+}
+.semiColon {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 36px; 
+    font-weight: 400;
+    color: black;
+}
+.test {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 36px; 
+    font-weight: 400;
+    color: black;
+}
+.test {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 36px; 
+    font-weight: 400;
+    color: rgb(252, 165, 5);
+}
 
 
 
