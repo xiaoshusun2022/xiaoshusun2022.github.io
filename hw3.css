@@ -175,11 +175,12 @@ button {
     background-attachment: fixed;
     background-position: 70px 70px;
     background-repeat: no-repeat;
-    background-size: 900px 700px;
+    background-size: 700px 500px;
 
     margin-left: 70px;
 }
 .gallery {
+    padding-top: 30px;
     background-image: url('flower.png');
     height: 270px;
     width: 240px;
