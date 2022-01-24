@@ -169,7 +169,8 @@ button {
     background-image: url('image2.png');
     height: 500px;
     width: 840px;
-    
+    padding-top: 150px;
+    padding-right: 130px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -180,8 +181,7 @@ button {
     margin-left: 70px;
 }
 .gallery {
-    padding-top: 150px;
-    padding-right: 130px;
+    
     background-image: url('flower.png');
     height: 270px;
     width: 240px;
