@@ -118,16 +118,15 @@ button {
 }
 
 .image_col1 {
+    background-image: url('image3.png');
     float: left;
     height: 270px;
     width: 190px;
     display: inline;
     margin-left: 70px;
+    background-size: 270px 190px;
 }
-.italian_img {
-    width: 110%;
-    height: 110%;
-}
+
 .des_col1 {
     padding-top: 100px;
     height: 270px;
