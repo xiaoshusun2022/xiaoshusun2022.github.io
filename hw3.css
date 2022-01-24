@@ -120,8 +120,6 @@ button {
 .image_col1 {
     background-image: url('flower.png');
     float: left;
-    height: 350px;
-    width: 250px;
     display: inline;
     margin-left: 70px;
     background-size: 120% 120%;
