@@ -166,7 +166,7 @@ button {
     color: rgb(252, 165, 5);
 }
 .bgp {
-    background-color: white;
+    background-image: url('image2.png');
     height: 500px;
     width: 840px;
     
