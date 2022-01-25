@@ -109,7 +109,6 @@ button {
 }
 
 .des_col1 {
-    float: left;
     padding-top: 100px;
     height: 270px;
     margin-left: 80px;
@@ -196,8 +195,8 @@ button {
 .footer {
     background-color: rgb(189,156,88);
     padding-top: 20px;
-    height: 400px;
-    width: 840px;
+    height: 300px;
+    width: 940px;
     
 }
 .foot1 {
@@ -208,7 +207,6 @@ button {
 
 }
 .foot1:after {
-    float: left;
     padding-top: 20px;
     margin-left: 80px;
     display: inline-block;
