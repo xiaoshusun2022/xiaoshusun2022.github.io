@@ -202,8 +202,10 @@ button {
 
     margin-left: 70px;
 }
+
 .btn {
-    
+    pointer-events: none;
+    background-color: rgb(189,156,88);
     font-family: Arial, Helvetica, sans-serif;
     border-color: white;
     border-width: 3px;
