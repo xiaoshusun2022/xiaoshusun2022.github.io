@@ -109,6 +109,7 @@ button {
 }
 
 .des_col1 {
+    float: left;
     padding-top: 100px;
     height: 270px;
     margin-left: 80px;
@@ -202,13 +203,12 @@ button {
 .foot1 {
     float: left;
     display: inline;
-    margin-left: 70px;
-    padding-top: 20px;
     margin-left: 30px;
-    
+    padding-top: 20px;
 
 }
 .foot1:after {
+    float: left;
     padding-top: 20px;
     margin-left: 80px;
     display: inline-block;
@@ -219,17 +219,20 @@ button {
     height: 50px;
 }
 .foot2 {
+    float: left;
     margin-left: 80px;
     display: inline;
     padding-top: 20px;
     
 }
 .foot3 {
+    float: left;
     margin-left: 80px;
     display: inline;
     padding-top: 20px;
 }
 .book {
+    float: left;
     margin-left: 80px;
     display: inline;
     padding-top: 20px;
