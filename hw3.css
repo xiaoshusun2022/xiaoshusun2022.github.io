@@ -202,26 +202,35 @@ button {
 .foot1 {
     padding-top: 20px;
     padding-left: 30px;
+    display: inline;
 
 }
 .foot1:after {
+    padding-top: 20px;
+    margin-left: 80px;
+    display: inline;
+
     content: "";
     background-color: white;
-    padding-top: 20px;
-    padding-left: 30px;
-    width: 5px;
-    height: 100px;
-    display: block;
+    width: 1px;
+    height: 50px;
 }
 .foot2 {
+    margin-left: 80px;
+    display: inline;
+
     padding-top: 20px;
     padding-left: 30px;
 }
 .foot3 {
+    margin-left: 80px;
+    display: inline;
     padding-top: 20px;
     padding-left: 30px;
 }
 .book {
+    margin-left: 80px;
+    display: inline;
     padding-top: 20px;
     padding-left: 30px;
 }
