@@ -202,7 +202,7 @@ button {
 }
 .foot1 {
     float: left;
-    display: inline;
+    
     margin-left: 30px;
     padding-top: 20px;
 
@@ -213,14 +213,14 @@ button {
     height: 30px;
     float: left;
     margin-left: 20px;
-    display: inline;
+    
     padding-top: 20px;
   }
 
 .foot2 {
     float: left;
     margin-left: 80px;
-    display: inline;
+    
     padding-top: 20px;
     
 }
@@ -230,20 +230,20 @@ button {
     height: 30px;
     float: left;
     margin-left: 20px;
-    display: inline;
+    
     padding-top: 20px;
   }
 
 .foot3 {
     float: left;
     margin-left: 80px;
-    display: inline;
+    
     padding-top: 20px;
 }
 .book {
     float: left;
     margin-left: 80px;
-    display: inline;
+    
     padding-top: 20px;
 }
 .trans2 {
