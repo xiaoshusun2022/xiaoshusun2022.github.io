@@ -141,7 +141,7 @@ button {
     background-color: white;
     padding-top: 30px;
     margin-left: 70px;
-    height: 400px;
+    height: 300px;
     width: 500px;
     text-align: center;
 }
@@ -192,7 +192,18 @@ button {
 .trans {
     padding-top: 10px;
     margin-left: 70px;
-    background-color: trasparent;
+    
     height:30px;
     width:840px;
+
+    background-image: url('image2.png');
+    height: 500px;
+    width: 840px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: 70px 70px;
+    background-repeat: no-repeat;
+    background-size: 700px 500px;
+
+    margin-left: 70px;
 }
