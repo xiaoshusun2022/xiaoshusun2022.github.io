@@ -190,14 +190,8 @@ button {
 }
 
 .trans {
-    padding-top: 10px;
-    margin-left: 70px;
-    
-    height:30px;
-    width:840px;
-
     background-image: url('image2.png');
-    height: 500px;
+    height: 20px;
     width: 840px;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
