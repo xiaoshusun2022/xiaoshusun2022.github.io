@@ -179,8 +179,7 @@ button {
     background-image: url('image2.png');
     height: 500px;
     width: 840px;
-    padding-top: 150px;
-    padding-right: 130px;
+    float: right;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -189,5 +188,10 @@ button {
     background-size: 700px 500px;
 
     margin-left: 70px;
+}
+.bg{
+    position: static;
+    margin-left: 70px;
+    margin-top: 300px;
 }
 
