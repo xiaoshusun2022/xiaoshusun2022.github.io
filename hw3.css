@@ -193,6 +193,7 @@ button {
     background-image: url('image2.png');
     height: 20px;
     width: 840px;
+    color: transparent
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 70px 70px;
