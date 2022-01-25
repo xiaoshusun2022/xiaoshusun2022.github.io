@@ -174,13 +174,12 @@ button {
     display: inline;
     margin-left: 70px;
     background-size: 90%;
+    float: right;
 }
 .bgp {
     background-image: url('image2.png');
     height: 500px;
     width: 840px;
-    float: right;
-
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: 70px 70px;
@@ -189,9 +188,7 @@ button {
 
     margin-left: 70px;
 }
-.bg{
-    position: static;
-    margin-left: 70px;
-    margin-top: 300px;
-}
 
+.trans {
+    color: transparent;
+}
