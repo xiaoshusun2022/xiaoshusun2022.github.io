@@ -195,7 +195,7 @@ button {
 .footer {
     background-color: rgb(189,156,88);
     padding-top: 20px;
-    padding-left: 70px;
+    margin-left: 70px;
     height: 300px;
     width: 940px;
     
@@ -208,7 +208,7 @@ button {
 
 }
 
-.vl {
+.v1 {
     border-left: 1px solid white;
     height: 20px;
     float: left;
@@ -225,7 +225,7 @@ button {
     
 }
 
-.vl {
+.v2 {
     border-left: 1px solid white;
     height: 20px;
     float: left;
