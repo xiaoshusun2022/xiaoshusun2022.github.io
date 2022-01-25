@@ -190,6 +190,7 @@ button {
 }
 
 .trans {
+    background-color: trasparent;
     color: transparent;
     height:30px;
     width:840px;
