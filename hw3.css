@@ -52,7 +52,7 @@ html {
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 890px 400px;
+    background-size: 990px 600px;
 }
 
 
@@ -78,7 +78,7 @@ button {
     width: 1000px;
     height: 360px;
     font-size: large;
-    padding-top: 100px;
+    padding-top: 10px;
 }
 
 .image_col1 {
