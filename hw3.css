@@ -11,9 +11,9 @@ html {
 .topnav {
     position:fixed;
     overflow: hidden;
-    background-color: #faebd7;
+    background-color: white;
     margin-bottom: 40px;
-    width: 990px;
+    width: 1239px;
     font-family: 'Roboto', sans-serif;
 }
 
