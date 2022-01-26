@@ -12,39 +12,27 @@ html {
     position:fixed;
     overflow: hidden;
     background-color: white;
-    margin-bottom: 40px;
     width: 1239px;
     font-family: 'Roboto', sans-serif;
 }
 
-.pages_on_nav {
-    margin-left: 70px;
-}
+
 
 .main {
     float: left;
     color: rgb(252, 165, 5);
-    padding: 10px 10px 10px 0px;
     font-size: 19px;
-    display: block;
-    text-decoration: solid;
 }
 .home {
     float: right;
     color: rgb(252, 165, 5);
-    padding: 10px 16px 10px 0px;
     font-size: 19px;
-    display: block;
-    text-decoration: solid;
 }
 
 .other {
     float: right;
     color: black;
-    padding: 10px 16px 10px 0px;
     font-size: 19px;
-    display: block;
-    text-decoration: solid;
 }
 .btn {
     cursor: pointer;
