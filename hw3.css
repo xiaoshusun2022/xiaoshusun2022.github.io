@@ -10,7 +10,7 @@ html {
 
 .topnav {
     overflow: hidden;
-    background-color: #faebd7;
+    background-color: white;
     margin-bottom: 40px;
     width: 990px;
     font-family: 'Roboto', sans-serif;
@@ -22,7 +22,6 @@ html {
 
 .topnav a {
     float: left;
-    color: blue;
     padding: 10px 16px 10px 0px;
     font-size: 19px;
     display: block;
@@ -48,9 +47,8 @@ html {
 
 .parallax {
     background-image: url('image3.png');
-    height: 1330px;
+    height: 1000px;
     width: 1239px;
-    padding-top: 10px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
