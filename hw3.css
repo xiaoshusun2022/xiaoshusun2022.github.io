@@ -21,15 +21,31 @@ html {
     margin-left: 70px;
 }
 
-.topnav a {
+.main {
     float: left;
-    color: blue;
+    color: rgb(252, 165, 5);
+    padding: 10px 10px 10px 0px;
+    font-size: 19px;
+    display: block;
+    text-decoration: solid;
+}
+.home {
+    float: right;
+    color: rgb(252, 165, 5);
     padding: 10px 16px 10px 0px;
     font-size: 19px;
     display: block;
     text-decoration: solid;
 }
 
+.other {
+    float: right;
+    color: black;
+    padding: 10px 16px 10px 0px;
+    font-size: 19px;
+    display: block;
+    text-decoration: solid;
+}
 .btn {
     cursor: pointer;
     font-family: Arial, Helvetica, sans-serif;
