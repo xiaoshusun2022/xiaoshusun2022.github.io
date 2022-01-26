@@ -39,7 +39,7 @@ html {
 
 .main_heading {
     color: white;
-    padding-left: 205px;
+    padding-left: 105px;
     padding-top: 155px;
     font-size: 50px;
 }
@@ -48,15 +48,11 @@ html {
     background-image: url('image3.png');
     height: 500px;
     width: 840px;
-    padding-top: 10px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: 40px -5px;
     background-repeat: no-repeat;
-    background-size: 900px 700px;
-
-    margin-left: 70px;
+    background-size: 70%;
 }
 
 
