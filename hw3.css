@@ -11,7 +11,6 @@ html {
 .topnav {
     overflow: hidden;
     background-color: white;
-    margin-bottom: 40px;
     width: 990px;
     font-family: 'Roboto', sans-serif;
 }
@@ -46,14 +45,15 @@ html {
 }
 
 .parallax {
-    background-image: url('image3.png');
-    height: 1000px;
-    width: 1239px;
+    background-image: url('restaurant.jpg');
+    height: 500px;
+    width: 840px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
+    background-position: 40px -5px;
     background-repeat: no-repeat;
-    background-size: 1239px 1330px;
+    background-size: 900px 700px;
 }
 
 
