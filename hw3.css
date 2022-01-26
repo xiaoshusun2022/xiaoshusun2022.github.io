@@ -46,7 +46,7 @@ html {
 
 .parallax {
     background-image: url('image3.png');
-    height: 500px;
+    height: 450px;
     width: 890px;
 
     /* Create the parallax scrolling effect */
