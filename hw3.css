@@ -41,7 +41,7 @@ html {
     color: white;
     padding-left: 15px;
     padding-top: 155px;
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .parallax {
@@ -52,7 +52,7 @@ html {
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 70%;
 }
 
 
