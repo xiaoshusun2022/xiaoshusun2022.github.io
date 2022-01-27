@@ -97,6 +97,8 @@ button {
     margin-left: 80px;
     width: 650px;
     display: inline;
+    background-size: 90%;
+    
 }
 .right {
     width: 35%;
