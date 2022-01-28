@@ -81,7 +81,7 @@ button {
     padding-top: 35px;
 }
 
-.image_col1 {
+.image1 {
     background-image: url('flower.png');
     height: 270px;
     width: 240px;
@@ -91,7 +91,7 @@ button {
     background-size: 90%;
 }
 
-.des_col1 {
+.image2 {
     padding-top: 100px;
     height: 370px;
     margin-left: 80px;
